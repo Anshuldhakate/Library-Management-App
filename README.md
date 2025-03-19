@@ -3,6 +3,13 @@
 
 This is a full-stack Library Management System built with React.js for the frontend and Node.js with Express.js for the backend. MongoDB is used as the database.
 
+
+
+<img width="917" alt="Screenshot 2025-03-19 220951" src="https://github.com/user-attachments/assets/de4864bf-49d9-4328-ae0b-6355e54a1c40" />
+<img width="722" alt="Screenshot 2025-03-19 220928" src="https://github.com/user-attachments/assets/81f1b572-4978-4e8f-b5bc-87bef03ea50e" />
+<img width="716" alt="Screenshot 2025-03-19 220852" src="https://github.com/user-attachments/assets/6017051e-20ad-452a-8bb3-88cf7be33cdc" />
+
+
 ## Features
 
 - User authentication (Register & Login)
